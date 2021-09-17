@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-tanhua-dubbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-tanhua-dubbo/my-tanhua-dubbo-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-tanhua-dubbo/my-tanhua-dubbo-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-tanhua-dubbo/my-tanhua-dubbo-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-tanhua-dubbo/my-tanhua-dubbo-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-tanhua-manage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-tanhua-manage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-tanhua-recommend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-tanhua-recommend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-tanhua-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-tanhua-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-tanhua-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-tanhua-sso/src/main/java" charset="UTF-8" />
+  </component>
+</project>
